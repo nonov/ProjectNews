@@ -1,0 +1,1 @@
+Click here to activate your account : <?php echo e("http://117.7.238.88:8240/news/app/#/activation/".$token); ?>
